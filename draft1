@@ -1,0 +1,147 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Sample Portfolio</title>
+ 	<link href='https://fonts.googleapis.com/css?family=Quicksand|Crimson+Text' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    
+   
+      
+    body {
+        background-color:#F6F6F6;
+        margin:5px;
+    }
+    
+    a:link {
+        color:#2980B9;
+        text-decoration:none;
+    }
+    
+    a:visited {
+    	color:#424242;
+    }
+    
+    a:hover {
+  		color:#2980B9;
+  		text-decoration:underline;
+}
+    
+    .header {
+    	background-color:#F6F6F6;
+    	padding:50px 180px 2px 180px;
+    	margin-top:0;
+    }
+    
+    .home  {
+    	float:left;
+    	font-family:'Quicksand', Helvetica, sans-serif;
+    	font-size:1.7em; 
+    	text-shadow: 2px 2px 2px #aaa;
+    	margin:-8px;
+    }
+   
+   .nav {
+   		font-family:'Crimson Text', Arial, serif;
+   		font-size:.9em;
+   		list-style:none;
+   		text-align:right;
+ 		padding:0;
+ 		margin:0;
+   }
+   
+   .nav li {
+   		display: inline;
+   		padding:10px;
+   }
+   
+   footer {
+   		background: lightgray;
+   		color:#BDBDBD;
+   		border-top:3px solid white;
+   		font-size:.7em;
+   		text-align:right;
+   		padding:3px;
+   		margin:0;
+   }
+ 
+ .content {
+ 		padding:50px;
+ 		font-family:"Crimson Text", Helvetica, serif;
+ }
+ 
+ #description {
+ 	text-align:center;
+ 	font-size:1em;
+ 	padding:30px;
+ }
+ 
+ .displayed {
+ 	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0px;
+ }
+ 
+    </style>    
+</head>
+
+<body>
+
+<div class="header">
+    <a href=""><span class="home">CHELSEA BULLOCK</span></a>
+    <ul class="nav">
+    <li><a href="">ABOUT</a></li>
+    <li><a href="">RESUME</a></li>
+    <li><a href="">PORTFOLIO</a></li>
+    <li><a href="">CURRENT PROJECTS</a></li>
+	</ul>
+</div>
+
+<div class="content">	
+	<img class="displayed" src="images/atllights.jpg" alt="medium shot: art installation of LED lights
+	in Atlanta Botanical Gardens forest" height="768" width="1024" />
+    <p id="description">"This is an enthusiastic endorsement about the design, development, 
+    and UX work that Chelsea has done." -Impressive, recognizable brand</p>
+    
+</div>
+
+
+
+<footer>
+<div class="icons">
+
+<a href="https://twitter.com/chelsea_bullock"><img class="icon icons8-Twitter" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAA
+BACAYAAACqaXHeAAAEa0lEQVR4Xu2aQXYaRxCG/5q8p8grKyeIskmGlZUTmGyMvBI+QdAJohvQzgUkncD4BsrKoI3k
+EwSvNC9ZGN8Ar4wUMeVXwCgYA13d04PnPYbtdFdXff13d3U1hC3/0ZbHjwpApYAtJ1AtgS0XQLUJVkugWgJbTqBaAm
+UVwL652tuN/nsC5vrMx8GY6d2/5lk/pM+lU0Bs3tQBahMoC/yLeBk8AFFnxDvnA/PbcBkMsZEi2vvHNC5ssJwAxOay
+lZhnHZtRn++TGcftKYFamv4CYozoxbwifnnZPSLGicBjpD8l5vnAZksNQKgSoisGHYeGIME/wt0VgAObwwvfRQEyIf
+sAmg/fmM9vXh6eaGw5AOh1CPhdjIaGEJvuK+3M24Ji4N0IO/VVy2OxvxpAzfT+np+hUBAyZdkC03zPgpe2u3R3BCay
+qdUFAC86weBOYg6PNc6tahOb7nsCiYTz/ibLgcEH0z1Ap4RcAGYe9+9Bxz7HU2ze7BOi93kj/3pi8BFIDwJvgr0+AU
+9WODtkwtm6o2lZv5rpngB0GhYAf7hH1NROiF4B7e4FiI7WOTs7o03SbrzWBBWbniGgrWmraaOV/bwtNQDJAQj8SueI
+PVkRO6EBfMLOD9rdP4tDDWCaqNwNCHisgTDXpp8Sd1KO3i7KMjSAG9NQx+MMQDqEWLMMvgYg6exA8vxVKa8j5Enzwg
+FMICj2Ah/nQ/QpFEDN9E4Z6fkIu8Nd3J1lWWEIx0PYYOBjYhp7rrbUa6Zmelki1GfwkECStzsP6Oqgtj0DbxPTWHqD
+XGdDDSA2a/MArZ+FtWPgdWIaqpuk1zFYa3fPQPRHYRHkNOx7N3FQQDFpa864H7rfg37VZn9eCpidACVVAX+4MYdeFy
+q1AgTALBm6XnMnCDWhbnYcCiCLhp0AlBWCr/wlHmcAGYRHfGvKsCnKBSgxDddS2oMQvABkveU+D0SGIKVr+tFNt2Fa
+++7+2eheAH42vWYEfjgSv11S5L/55QIwm3kpkLjeDMNM+8zKGHihqf0HyQQXjYS+yrqS8U19c58C8wZi05Mj8amr83
+nby8VHW/OzjeW1B2RGJw8afNuxlcpsTrh+z7vxeWeCqxyVQgmDpL5X+J7ge+lZ5XsuBcwbnT5v3bbAqDNRvQgYec/8
+ZRCCAfhyb5i88Mpzl1d+vsxRn4qvZmkFBTB75JTK8f8PlRovLG1kxx9hp+la8dUMHQTANC+YvOk7FyRsToZe88GOwf
+jPy6eUssy0lKG8c/FVAOSoS4FW3kTHBtiqgOk/NqIWwJLr74dc1yudY/7rE33fKkLy3gqQzA+Qf18Ud9TJWgdSk5jn
+8nawkZ9VAV+nwJeihlaoDHCa1eFiDDrzKWnlpeQMIBtw+rRNTQYduF6H5Ugj5usx0XXRa9wGyBvAouFpuWw02Qzles
+yguTcDGgDjwRjfDb/FLK+DEAyAjXRZv1cAyjozm/KrUsCmSJd1nEoBZZ2ZTflVKWBTpMs6TqWAss7MpvzaegV8BpIc
+qFAmIozKAAAAAElFTkSuQmCC" width="64" height="64"></a>
+
+<!-- Instagram icon by Icons8 -->
+<a href="https://www.instagram.com/chelsea_bullock/"><img class="icon icons8-Instagram" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAADRklEQVR4Xu1aS3YSQRS9r/WgjtQVSAYqjExWIJkEHElWEFyBuAKKFYgrkKwgOBIyCa5AMgJ1EJago2BOwvOU2CfdLU1XNd2nC7qYUr97332/qibk/Ec5xw9LgFVAzhmwLpBzAdggaF3AukAMBkrtwRExmgB2Y0xPY8qICZ1Jq3qsu7iWCxTF2aMHuDozCHgQ7+gShf2p2P+pSoQWAWUx+GoweBfzaCyqe4kTUBKnDQJ/VF04y3EMejMRB12VMygrYEOsr60CHQJYhVFTxoxFVQmb0iAJqiwGmRIQBijsXJYAqwDrAkrurTTIxgAbBLPPArrpdeuywNYQwMA5gbvXcIY/xMFIAnsqTnfvYl5hUIOAF7pgl403VAH8bixqnVUAy6LfBOj9uiQYR8A1aM+1eBS4hSJYdp6xf4YREG35INJ1lZA6AeG1uV/C0ucnohrr5qgs+lOAntySE05ksCfIjoBWvwei1yqHjtL3fypg/jRu1+rL5hlDQEn0LwhUdA+p4/tBYMFYwODpRNR2jCYgriXC1KC6nuq44D6xewHV/lzVF7eGgJIYjLzFTLIuEB5QzVFA3oPgkvytdU3tdYVgQF1122uMAkric5HgXPh9OplCiDHfmYhXU6OzgDxcSQy6BBx5D6oTC5aVwgwcT0S1sW6wTD0LyA3kE9p9XE0JeOjdcE7c/NaqfVhVAD1v9986TL6GiYFfMxSKq568jHEBF9wzMajfAU6CYGUxIx8y5+x88bbDDs1fygdXbxHlzr0BDr+Lam91F+m/tldNv4nXAf4gtv5zmuozl3EK8CrBAWRM8LlDVB8gZT8HGlGWd9cxlgBPTOgEA2MYCTLgzVBo6jxzG02AC3SRIqkORoWJim7F+PeajGVscHrAzTAs1W1cDIiSeZL/b4QCkgQcXMsSEHi9NiINpmnxzBVwicJjnSidJhnL+o/EFRDs8xk8nOHeYdYkLMru3ycEqrgk61zEKleCuf9I6l+X57vtSVPWcdfWsb7cQ1kBnopumNT7XVyQKyrI8xkKFR231CLgtqI7bQDcNIUIaXWAOqrfBnoJjEVA0pbLcj1LQJbsm7C3VYAJVsjyDFYBWbJvwt5WASZYIcsz5F4BfwDPiiZfqTijFAAAAABJRU5ErkJggg==" width="64" height="64"></a>
+
+<a href="https://www.linkedin.com/in/chelseabullock"><img class="icon icons8-LinkedIn" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAC2UlEQVR4Xu2aQXLTQBBFf8tUih3mBmYB5awSTkC8iZJVfITkBs4J3D4BcINwAuxVIjZxToBZWQUbcwOxSxWxm5rCqlIU2bRwpIms0bo10/2me3q6Zwg1/6jm9sMBcB5QcwIuBGruAG4TdCHgQiAngTZfHgDUJ9BBzl+LFh8KFh9DPh7nmShXCLQ5YAL6eSYoW1aAQcg+a+dVAzArT/CutQPblBMsOlpPyAEgGBPwzqZh6rlFRtPBUVcjrwawy4EkB7wDvf3BhxPNJEXLvOYv+88gX5PzTNlX2aYSMgOnAWgnKNr4ePz/1c8B0K6QhrBxxQbJiUAiEhmFfDzTjr+pnEa/rDkezQMyUmQ0B86+sz/c1DjN/1YBZG1CS6WjKfsvNQZsKmMVwLoDUp6cvAkEqwB2+aoH0PssA8pKl1YBtPmyBXgTAl4kIQjwLWR/f5OV1f5rFYBR8g0HXQ+4iCEY4+eg07IOS9YBxCtlaoY5GlFZhruD0JLAk/EAbcyukmvxdfO593sPIi2BNIm8CRbzn/86VFkHkFYgNjBZM6wqqeNU2R4EfRL0ADTTgAQynsM7XxValQeg7DJFd6BOFoRKAwBgympVuhTILOSjV2kPqTqAXFuHgM5CPrxI/rQ1AAS4MYat6z4J8Clk/3SrABjDb7HTnXEnMoYtT5dDAvYeboi4Cdm/15WutAcI8OsWO63Y+Nhgc7psAJ8z4uNBlVlpAFjTxNSkVwOo0gDW9fJrD6DNQZSuMs2Kp5uyW+sBbc6+j3AAUn1/5wGpixvtvcWjdYU1m9XqYmj1haYLAbcHuE0w81baZQGXBe5ff1tPg7kK+gKEHQDb54ACFjXXkKV7QFl3fhoK5TyR6V8NQXSiUci6TBGPpGr/TO5vn67GDyWTl58k1Hty4SAyEpIP2geSsT3qatB6XBekgANQENjKDOs8oDJLVZCizgMKAluZYZ0HVGapClK09h7wB96cuF9XNsH7AAAAAElFTkSuQmCC" width="64" height="64"></a>
+
+</div>
+<a href="https://icons8.com">Icon pack by Icons8</a>
+</footer>
+
+</body>
+</html>
